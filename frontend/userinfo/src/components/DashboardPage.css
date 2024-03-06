@@ -1,0 +1,99 @@
+.marvel-header {
+    background-color: #292929;
+    padding: 20px;
+    text-align: center;
+}
+
+.logotext a{
+    color: #fff;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+p {
+    color: rgb(117, 110, 110);
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #343739;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5em;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 15px;
+    font-size: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer {
+    background-color: #343739;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.flex-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background: #899198;
+    padding-bottom: 80px;
+}
+
+.flex-container {
+    width: 300px;
+    margin: 10px;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    min-height: 530px;
+    max-height: 530px;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 6px;
+    height: 300px;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+.para-data p {
+    margin: 5px 0;
+    text-align: center;
+}
+
+.clickable-div {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #b4c1c4;
+}
